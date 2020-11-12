@@ -20,3 +20,4 @@ function getRandomColor() {
 function getLetters(){
   return '0123456789ABCDEF';
 }
+let getLett=() => '0123456789ABCDEF';
